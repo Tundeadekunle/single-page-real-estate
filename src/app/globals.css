@@ -25,6 +25,11 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+html, body {
+  overflow-x: hidden;
+}
+
+
 @layer base {
   html {
     scroll-behavior: smooth;
