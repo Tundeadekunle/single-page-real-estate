@@ -35,7 +35,9 @@
 
 
 // src/app/page.tsx
-import Header from "./components/Header";
+// import Header from "./components/Header";
+// import Header from "../../app/components/Header";
+import Header from "@/app/components/Header";
 import Hero from "./components/Hero";
 import PropertyList from "./components/PropertyList";
 import Services from "./components/Services";
