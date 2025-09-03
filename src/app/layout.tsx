@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "LuxuryHomes | Premium Real Estate",
+  title: "Josdoc Properties | Premium Real Estate",
   description: "Reputable, trustworthy real estate in Abeokuta and Ogun state as a whole",
 };
 
